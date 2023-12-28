@@ -9,7 +9,7 @@ public class Main{
 
 class test10{
     public static void function(){
-        
+        ffffdfdf
     }
 }
 class test11{
