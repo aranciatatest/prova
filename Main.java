@@ -1,21 +1,10 @@
 public class Main{
     public static void main(String[] args){
-        int buonaserraaaaa;
-        char buonasera;
-
-        hahahaha
+        int a = 5, b = 6;
+        int result = a + b;
     }
 }
 
-class test10{
-    public static void function(){
-        
-    }
-}
-class test11{
-testestest
-dfsffsf
-}
-class test12{
-    sffsfsf
+class somma {
+    
 }
